@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//number logic practice
 int pwr(int x, int y){
     int c=1;
     while(y>0){
